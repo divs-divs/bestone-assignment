@@ -1,0 +1,22 @@
+.selectionPointer{
+cursor: pointer;
+padding-bottom: 4%;
+width: 50%;
+}
+.languageImagePosition{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.languageSearch{
+    top: 129px;
+    left: 39px;
+    width: 1288px;
+  
+    background: #E8E8E8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 35px !important;
+    }
